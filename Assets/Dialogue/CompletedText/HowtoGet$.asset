@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d1115755e74da46acbdfdfabf9c562, type: 3}
+  m_Name: HowtoGet$
+  m_EditorClassIdentifier: 
+  gameText: The blacksmith explains the miners make the most money in the town besides
+    monster killers. Left to head toward the mines. Right to ask about the Monsters
+  otherStates:
+  - {fileID: 11400000, guid: e2649c3cd6cdbbb459f043ded599098c, type: 2}
+  - {fileID: 11400000, guid: fe2dc6da56a8c6a4b92159a63f55369b, type: 2}

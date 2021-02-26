@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d1115755e74da46acbdfdfabf9c562, type: 3}
+  m_Name: GrandWiz
+  m_EditorClassIdentifier: 
+  gameText: You enter a large church and at the church stepple you find the grand
+    wizard. He throws a book to you and emplores you to read it. Left to read book.
+    Right to give the book back.
+  otherStates:
+  - {fileID: 11400000, guid: 9532fa6f37f4f4645a979184aff98026, type: 2}
+  - {fileID: 11400000, guid: 30c56f2ddec6301418ab3be7ed3b032e, type: 2}

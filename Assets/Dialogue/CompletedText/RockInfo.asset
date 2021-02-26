@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d1115755e74da46acbdfdfabf9c562, type: 3}
+  m_Name: RockInfo
+  m_EditorClassIdentifier: 
+  gameText: The sticky rocks were made that way when the founder of our town wanted
+    to watch birds all day long. They would land on the rocks and stick so the founder
+    could see the birds longer. Left to go to a sticky rock. Right to go talk to
+    someone else.
+  otherStates:
+  - {fileID: 11400000, guid: 583ff33f365d02c42aa3ce81a9658218, type: 2}
+  - {fileID: 11400000, guid: 083d1ce008cfe3543b01c4b5e6841362, type: 2}

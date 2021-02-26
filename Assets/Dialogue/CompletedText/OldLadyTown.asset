@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d1115755e74da46acbdfdfabf9c562, type: 3}
+  m_Name: OldLadyTown
+  m_EditorClassIdentifier: 
+  gameText: She explains that she grew up here and that she learned magic from the
+    Grand Wizard whom is the head of the town. Left to go to Grand Wizard. Right
+    to ask the lady if she needs help.
+  otherStates:
+  - {fileID: 11400000, guid: 8c17ab35130c48746b905e8c0a0e91d4, type: 2}
+  - {fileID: 11400000, guid: e77c75eb38441bb4ba8663ef73c25584, type: 2}

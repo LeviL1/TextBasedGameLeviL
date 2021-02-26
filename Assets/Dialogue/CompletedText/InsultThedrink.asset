@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d1115755e74da46acbdfdfabf9c562, type: 3}
+  m_Name: InsultThedrink
+  m_EditorClassIdentifier: 
+  gameText: You call this alcohol. I'd be better of making my own. The pub owner
+    looks at you angrily while rolling up his sleeves. Left to engage in a fist fight.
+    Right to runaway.
+  otherStates:
+  - {fileID: 11400000, guid: 70b275139fedaa14fb2501b10f1e1b4f, type: 2}
+  - {fileID: 11400000, guid: a5b62080842eeb34eb7d79aa0f5ad6ac, type: 2}
